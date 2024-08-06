@@ -1,0 +1,7 @@
+pygame
+torch
+torchvision
+torchaudio
+numpy
+matplotlib 
+pandas
